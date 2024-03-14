@@ -1,0 +1,3 @@
+import os
+
+clean = os.popen('Cleanmgr.exe /sagerun:1')
